@@ -24,4 +24,4 @@ class Solution(object):
         node.next = node.next.next
 
 #Runtime: 24 ms, faster than 96.21% of Python online submissions for Delete Node in a Linked List.
-#Memory Usage: 12.2 MB, less than 91.38% of Python online submissions for Delete Node in a Linked List.
+#Memory Usage: 12.2 MB, less than 91.38% of Python online submissions for Delete Node in a Linked List
