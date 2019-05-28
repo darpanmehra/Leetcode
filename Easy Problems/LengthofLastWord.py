@@ -18,4 +18,4 @@ class Solution:
         return len(lastword) if lastword!= '' else 1
 
 #Runtime: 36 ms, faster than 86.84% of Python3 online submissions for Length of Last Word.
-#Memory Usage: 13.1 MB, less than 68.81% of Python3 online submissions for Length of Last Word.
+#Memory Usage: 13.1 MB, less than 68.81% of Python3 online submissions for Length of Last Word
