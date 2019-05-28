@@ -35,4 +35,4 @@ class Solution:
         return (prep+"-"+main if prep else main)
 
 #Runtime: 40 ms, faster than 98.79% of Python3 online submissions for License Key Formatting.
-#Memory Usage: 13.8 MB, less than 38.02% of Python3 online submissions for License Key Formatting
+#Memory Usage: 13.8 MB, less than 38.02% of Python3 online submissions for License Key Formatting.
