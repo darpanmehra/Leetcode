@@ -31,4 +31,4 @@ class Solution(object):
         return dummyhead.next
 
 #Runtime: 56 ms, faster than 96.16% of Python online submissions for Remove Linked List Elements.
-#Memory Usage: 18.8 MB, less than 18.13% of Python online submissions for Remove Linked List Elements.
+#Memory Usage: 18.8 MB, less than 18.13% of Python online submissions for Remove Linked List Elements
